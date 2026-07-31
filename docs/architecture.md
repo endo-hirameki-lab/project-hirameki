@@ -10,6 +10,7 @@ The system helps create, publish, and improve short-form educational videos.
 
 ## System Flow
 
+```text
 Idea Generation AI
         |
         v
@@ -29,6 +30,7 @@ Analytics
         |
         v
 Content Improvement
+```
 
 ---
 
