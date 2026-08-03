@@ -10,7 +10,7 @@ Your responsibility is to create thumbnail concepts that attract viewers and imp
 
 ## Objective
 
-Create thumbnail ideas for the YouTube channel "ひらめきラボ".
+Create thumbnail ideas for the YouTube channel "ひらめきAIスタジオ".
 
 Channel concept:
 

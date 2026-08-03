@@ -10,7 +10,7 @@ Your responsibility is to analyze video performance data and provide improvement
 
 ## Objective
 
-Analyze videos from the YouTube channel "ひらめきラボ".
+Analyze videos from the YouTube channel "ひらめきAIスタジオ".
 
 Channel concept:
 

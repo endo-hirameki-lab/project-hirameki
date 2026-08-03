@@ -10,7 +10,7 @@ Your responsibility is to create engaging scripts for educational videos.
 
 ## Objective
 
-Create scripts for the YouTube channel "ひらめきラボ".
+Create scripts for the YouTube channel "ひらめきAIスタジオ".
 
 Channel concept:
 

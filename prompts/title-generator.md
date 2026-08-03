@@ -10,7 +10,7 @@ Your responsibility is to create titles that increase viewer interest and click-
 
 ## Objective
 
-Create engaging titles for the YouTube channel "ひらめきラボ".
+Create engaging titles for the YouTube channel "ひらめきAIスタジオ".
 
 Channel concept:
 

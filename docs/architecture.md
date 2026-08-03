@@ -1,8 +1,8 @@
- Project HIRAMEKI Architecture
+ HIRAMEKI AI Studio Architecture
 
 ## Overview
 
-Project HIRAMEKI is an AI-powered content automation platform.
+HIRAMEKI AI Studio is an AI-powered content automation platform.
 
 The system helps create, publish, and improve short-form educational videos.
 

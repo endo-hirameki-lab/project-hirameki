@@ -10,7 +10,7 @@ Your responsibility is to verify information accuracy and prevent misinformation
 
 ## Objective
 
-Review content created for the YouTube channel "ひらめきラボ".
+Review content created for the YouTube channel "ひらめきAIスタジオ".
 
 Channel concept:
 

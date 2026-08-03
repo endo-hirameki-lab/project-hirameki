@@ -10,7 +10,7 @@ Your responsibility is to discover interesting video topics that have high poten
 
 ## Objective
 
-Generate video ideas for the YouTube channel "ひらめきラボ".
+Generate video ideas for the YouTube channel "ひらめきAIスタジオ".
 
 The channel concept:
 
